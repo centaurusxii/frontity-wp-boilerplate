@@ -1,0 +1,120 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "a8e84f3e84848cef39bb",
+  "publicPath": "/static/",
+  "outputPath": "/Users/raymondsotto/Desktop/frontity-headless-wp/build/static",
+  "assetsByChunkName": {
+    "frontity-headless-wp": [
+      "frontity-headless-wp.module.js",
+      "frontity-headless-wp.15cc9e5165f982859d8a.hot-update.js"
+    ],
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "15cc9e5165f982859d8a.hot-update.json",
+      "size": 62,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "frontity-headless-wp.15cc9e5165f982859d8a.hot-update.js",
+      "size": 26883,
+      "chunks": [
+        "frontity-headless-wp"
+      ],
+      "chunkNames": [
+        "frontity-headless-wp"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "frontity-headless-wp.module.js",
+      "size": 5171654,
+      "chunks": [
+        "frontity-headless-wp"
+      ],
+      "chunkNames": [
+        "frontity-headless-wp"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/1_bulb_on_d.png",
+      "size": 355257,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 48033,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "frontity-headless-wp": {
+      "chunks": [
+        "frontity-headless-wp"
+      ],
+      "assets": [
+        "frontity-headless-wp.module.js",
+        "frontity-headless-wp.15cc9e5165f982859d8a.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "frontity-headless-wp": {
+      "chunks": [
+        "frontity-headless-wp"
+      ],
+      "assets": [
+        "frontity-headless-wp.module.js",
+        "frontity-headless-wp.15cc9e5165f982859d8a.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
